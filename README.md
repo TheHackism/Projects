@@ -1,4 +1,4 @@
-# Collection of Security Scripts
+# Collection of Scripts
 
 This repository contains various scripts I've utilized during my security research and testing workflows. **Please use discretion**: do not run anything from this repo without fully understanding its purpose and potential impact.
 
